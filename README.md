@@ -1,7 +1,5 @@
-<html>
-<body>
-  <object data="Project\ Report.pdf" type="application/pdf" width="100%" height="600px">
-    <embed src="Project\ Report.pdf" type="application/pdf" />
-  </object>
-</body>
-</html>
+# Project Documentation
+
+This repository contains a detailed documentation PDF. You can view it using the link below:
+
+[Read Documentation]([./docs/README.pdf](https://github.com/Jefrin-Jo/Real-Fake-Classifier/blob/main/Project%20Report.pdf))
